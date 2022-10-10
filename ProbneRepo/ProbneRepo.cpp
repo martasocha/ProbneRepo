@@ -8,6 +8,7 @@ int main()
     std::cout << "Hello World!\n";
     std::cout << ":D" << std::endl;
     std::cout << "Proba" << std::endl;
+    std::cout << "Kolejna proba" << std::endl;
 
 
 }
